@@ -1,0 +1,173 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.13f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h --additional-cpp=D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h --additional-cpp=D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed --generatedcppdir=D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput",
+      "Inputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h",
+      "Action": "copy \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\additionalCppFiles\\UnityAdsInitializationListener.h\" \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsInitializationListener.h\" && copy /b \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsInitializationListener.h\" +,, \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsInitializationListener.h\" ",
+      "Inputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h"
+      ],
+      "Outputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h",
+      "Action": "copy \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\additionalCppFiles\\UnityAdsLoadListener.h\" \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsLoadListener.h\" && copy /b \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsLoadListener.h\" +,, \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsLoadListener.h\" ",
+      "Inputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h"
+      ],
+      "Outputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "Copy Additional C++ File D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h",
+      "Action": "copy \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\additionalCppFiles\\UnityAdsShowListener.h\" \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsShowListener.h\" && copy /b \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsShowListener.h\" +,, \"D:\\Bachelor\\2021_2\\Aplication_Program\\project\\TestUnityChan\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\il2cppOutput\\UnityAdsShowListener.h\" ",
+      "Inputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h"
+      ],
+      "Outputs": [
+        "D:/Bachelor/2021_2/Aplication_Program/project/TestUnityChan/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 4
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
